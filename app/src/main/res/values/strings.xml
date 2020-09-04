@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Newera_carga</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Carga de Clientes</string>
+    <string name="menu_gallery">Carga de Vendas</string>
+    <string name="menu_slideshow">Clientes</string>
+    <string name="Carga_Clientes">Processo de carga de clientes</string>
+    <string name="Carga_Vendas">Processo de carga de vendas</string>
+    <string name="inicio">Início</string>
+    <string name="fim">Fim</string>
+    <string name="telefone">Telefone</string>
+    <string name="Executar">Executar</string>
+    <string name="logout">Sair</string>
+</resources>

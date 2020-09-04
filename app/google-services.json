@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "134659707960",
+    "firebase_url": "https://crm-lab-basico.firebaseio.com",
+    "project_id": "crm-lab-basico",
+    "storage_bucket": "crm-lab-basico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134659707960:android:f13ccd8372232de63e02cd",
+        "android_client_info": {
+          "package_name": "com.crmlab.newera_carga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134659707960-3b3j0qh284tq9itb9olelg50qu2tmft2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crmlab.newera_carga",
+            "certificate_hash": "b6c5e826bba1981b22a0e11eccc8cfee4b85d4b2"
+          }
+        },
+        {
+          "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXpjvJ7SP63cGDsbJFnHh4mB2hoNIYYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134659707960:android:cc6989fae40d0dd23e02cd",
+        "android_client_info": {
+          "package_name": "com.crmlabapp.atendimento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134659707960-5t650qv5aumoqvstgg8sj323v4rvoouj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crmlabapp.atendimento",
+            "certificate_hash": "b6c5e826bba1981b22a0e11eccc8cfee4b85d4b2"
+          }
+        },
+        {
+          "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXpjvJ7SP63cGDsbJFnHh4mB2hoNIYYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134659707960:android:21c9d1b706d045873e02cd",
+        "android_client_info": {
+          "package_name": "com.crmlabapp.campanhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134659707960-vatjgt49varqt2mha12ggekak18vf4je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crmlabapp.campanhas",
+            "certificate_hash": "b6c5e826bba1981b22a0e11eccc8cfee4b85d4b2"
+          }
+        },
+        {
+          "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXpjvJ7SP63cGDsbJFnHh4mB2hoNIYYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134659707960:android:6d93c6b96e59edaa3e02cd",
+        "android_client_info": {
+          "package_name": "com.crmlabapp.carregartxt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134659707960-vit915f07uqbj5ocuibqfsth1dk50vcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crmlabapp.carregartxt",
+            "certificate_hash": "b6c5e826bba1981b22a0e11eccc8cfee4b85d4b2"
+          }
+        },
+        {
+          "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXpjvJ7SP63cGDsbJFnHh4mB2hoNIYYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134659707960:android:7d82351656cabbe23e02cd",
+        "android_client_info": {
+          "package_name": "com.crmlabapp.oportunidades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134659707960-ol3c0e07719g3vbitvq7cjp5fcm5si8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crmlabapp.oportunidades",
+            "certificate_hash": "b6c5e826bba1981b22a0e11eccc8cfee4b85d4b2"
+          }
+        },
+        {
+          "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqXpjvJ7SP63cGDsbJFnHh4mB2hoNIYYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134659707960-qvt1mn7qke1c683o39cmullu96fki56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
